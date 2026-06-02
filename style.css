@@ -1,0 +1,37 @@
+img{
+    width: 150px;
+    height: auto;
+}
+nav{
+    background-color: whitesmoke;
+    width: fit-content;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-inline: auto;
+    border-radius: 24px;
+}
+a{
+    margin-bottom: 40px;
+}
+body{
+    height: 100vh;
+}
+ul{
+    list-style: none;
+}
+.anc1{
+    color: blue;
+}
+.anc2{
+    color: rgb(2, 56, 56);
+}
+.anc3{
+    color: blueviolet;
+}
+.anc4{
+    color: red;
+}
+.anc5{
+    color: rgb(200, 200, 20);
+}
